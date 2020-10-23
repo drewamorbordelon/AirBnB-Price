@@ -1,6 +1,6 @@
 # AirBnb - Rent API
 
-This API created by Data Scientists uses XGBoost model to take existing pricing data and return predicted optimal prices for property rental on Airbnb.
+This API created by Data Scientists uses an XGBoost Regressor model to take existing pricing data and return predicted optimal prices for property rental on Airbnb.
 
 
 ## Endpoint
